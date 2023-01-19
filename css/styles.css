@@ -31,7 +31,6 @@ ul{
  
   display: flex;
   justify-content: center;
-  align-content: center;
   align-items: center;
   width: 264px;
   height: 112px;
@@ -370,9 +369,6 @@ margin-bottom: 16px;
  
 }
 
-.footer-desc{
-  
-}
 
 
 /* --Portfolio-- */
