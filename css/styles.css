@@ -365,7 +365,6 @@ margin-bottom: 16px;
 }
 .footer-flex{
   display: flex;
-  /* justify-content: flex-start; */
   align-items: baseline;
   gap: 120px;
  
